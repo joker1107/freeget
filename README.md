@@ -1,7 +1,23 @@
 ##Ubuntu 18.01及以上
 
 # 部署方法：
-# 配置文件 /home/ubuntu/config.txt 
+# 创建配置文件 /home/ubuntu/config.txt 
+
+
+#server地址
+SERVER_IP=43.xx.xx.237
+
+#server端口
+SERVER_PORT=3389
+
+#uuid
+UUID=63bce4d8-4d38-xxxx-94a9-2d1a73b0f809
+
+#中转ip
+PROXY_IP=106.xx.xx.15
+
+#中转端口
+PROXY_PORT=3389
 
 
 # 服务端执行 
