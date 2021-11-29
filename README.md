@@ -56,7 +56,7 @@ chmod +x ./van.v2.run
 
 ./van.v1.run client /home/ubuntu/config.txt
 
-# 检验代理是否ok,
+# 检验代理是否ok
  curl -x socks5://127.0.0.1:1080 icanhazip.com
  #与sever IP地址一致则部署成功
     
