@@ -1,7 +1,12 @@
-##Ubuntu 18.01及以上
+部署环境：
+本地服务器一台 作为client
+国内服务器一台 作为proxy （阿里云、腾讯云等购买）
+国际服务器一台 作为sever （aws、腾讯云香港等购买）
+
+均安装Ubuntu 18.01及以上版本
 
 # 部署方法：
-# 创建配置文件 /home/ubuntu/config.txt 
+# 配置文件 /home/ubuntu/config.txt 
 
 
 #server地址
