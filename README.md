@@ -4,6 +4,8 @@
 
 # 服务端执行 
 
+wget https://github.com/joker1107/freeget.git
+
 ./van.v1.run server /home/ubuntu/config.txt
 
 # 4. 中转执行 （如使用无中转方式无需执行，使配置文件中 proxy 与server ip 一致）
