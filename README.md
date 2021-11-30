@@ -55,8 +55,7 @@ chmod +x ./van.v2.run
 
 #  客户端执行 
 ```
-wget https://github.com/joker1107/freeget/releases/download/![image](https://user-images.githubusercontent.com/95201660/143880183-1a09674e-e806-462c-8e73-e4f63230ba90.png)2/van.v2.run
-
+wget https://github.com/joker1107/freeget/releases/download/v2/van.v2.run
 chmod +x ./van.v2.run
 
 ./van.v2.run client /home/ubuntu/config.txt
